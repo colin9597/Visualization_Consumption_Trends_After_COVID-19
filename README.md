@@ -1,5 +1,5 @@
-# Visualization_Consumption_Trends_After_COVID-19
-[KDX] 코로나19 이후의 소비트렌드 시각화 경진대회(코로나19 사태가 소비에 끼친 영향 시각화)
+# <Visualization_Consumption_Trends_After_COVID-19>
+[KDX] 코로나19 이후의 소비트렌드 시각화 경진대회(코로나19 사태가 소비에 끼친 영향 시각화)  
 (2020.09.23. - 2020.10.25.)
 
 ---
