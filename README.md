@@ -8,7 +8,11 @@
 ## 온라인 소비 변화
 - 전체 온라인 소비 변화  
 ![온라인 소비 변화1](https://user-images.githubusercontent.com/80561963/125286766-2194ec80-e357-11eb-922e-b7c502d65f79.JPG)  
+
 - 업종별 온라인 소비 변화  
 ![온라인 소비 변화2](https://user-images.githubusercontent.com/80561963/125286811-2f4a7200-e357-11eb-99f2-b3c44f2ca76a.JPG)
 ## 전국 주택 매매 거래량 추이
 ![주택매매가격 변동](https://user-images.githubusercontent.com/80561963/125286864-3bceca80-e357-11eb-885b-03d3c45154f8.gif)
+---
+## Report
+[Topology.pdf](https://github.com/colin9597/Algorithm_Study/files/6801299/Topology.pdf)
